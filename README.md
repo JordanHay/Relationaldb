@@ -1,2 +1,0 @@
-# Relationaldb
-ORM/SQLdb practice
