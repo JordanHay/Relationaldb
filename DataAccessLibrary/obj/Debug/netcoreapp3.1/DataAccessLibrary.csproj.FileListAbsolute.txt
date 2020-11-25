@@ -1,0 +1,9 @@
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\Jordan Haywood\source\repos\RelationalDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb
